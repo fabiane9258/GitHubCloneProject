@@ -9,3 +9,11 @@ match command:
         print("Suspending the machine....")
     case "":
         print("Invalid command..")
+
+
+
+count = 1
+while count <= 5:
+    print(count)
+    count += 1
+    
